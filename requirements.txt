@@ -1,0 +1,6 @@
+numpy
+numba
+dask[distributed]
+matplotlib
+streamlit
+# GPU (opcional): cupy-cuda13x  numba-cuda[cu13]
